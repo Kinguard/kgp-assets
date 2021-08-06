@@ -1,0 +1,15 @@
+Source: kgp-assets
+Section: admin
+Priority: optional
+Maintainer: Tor Krill <tor@openproducts.se>
+Build-Depends: debhelper-compat (= 12)
+Standards-Version: 4.4.1
+Homepage: https://www.kinguardproject.org/
+#Vcs-Browser: https://github.com/Kinguard/kgp-assets.git
+#Vcs-Git: https://github.com/Kinguard/kgp-assets.git
+
+Package: kgp-assets
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Misc common binaries for Kinguard  
+ Binaries and other assets used by other components in the Kinguard distribution
