@@ -9,7 +9,7 @@ fi
 
 ARCH=$(dpkg --print-architecture)
 
-dpkg -i /usr/share/opi-backend/*.deb || exit 1
+dpkg -i /usr/share/kgp-assets/kgp-shell/*.deb || exit 1
 
 PASSWORD=`/usr/bin/pwgen -n1 12`
 
