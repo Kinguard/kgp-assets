@@ -1,4 +1,4 @@
 kgp-shell/disable_shell.sh			/usr/share/kgp-assets/kgp-shell/
 kgp-shell/enable_shell.sh			/usr/share/kgp-assets/kgp-shell/
-kgp-shell/all/*.deb					/usr/share/kgp-assets/kgp-shell/
+# kgp-shell/all/*.deb					/usr/share/kgp-assets/kgp-shell/
 kgp-shell/amd64/*.deb				/usr/share/kgp-assets/kgp-shell/

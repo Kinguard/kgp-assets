@@ -1,3 +1,9 @@
+kgp-assets (1.2) vigrid; urgency=medium
+
+  * Initial Bullseye build, updated shell packages
+
+ -- Tor Krill <tor@openproducts.se>  Tue, 01 Feb 2022 08:46:03 +0100
+
 kgp-assets (1.1) vili; urgency=medium
 
   * Update faulty path to packages
